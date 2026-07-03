@@ -32,3 +32,9 @@ This feature is useful after losing a game, as it lets you see where the remaini
 The following screenshots illustrate several key stages of the game, including ship placement, the battle phase, and the end of the game.
 
 <img src="screen_shots/battleship_screen_en_1.png" width="600" height="365" />
+
+
+<img src="screen_shots/battleship_screen_en_2.png" width="600" height="365" />
+
+
+<img src="screen_shots/battleship_screen_en_3.png" width="600" height="365" />
