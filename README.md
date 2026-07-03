@@ -17,9 +17,10 @@ Once all ships have been placed, the game automatically enters the battle phase.
 ### Battle Phase
 During the battle phase, fire at the opponent by left-clicking a cell on the board on the right.
 The result of each shot is displayed immediately:
-•	Small black dot: the shot missed. 
-•	Red X on a gray background: the shot hit a ship, but it has not yet sunk. 
-•	Black cell: the entire ship has been sunk. 
+-	Small black dot: the shot missed. 
+-	Red X on a gray background: the shot hit a ship, but it has not yet sunk. 
+-	Black cell: the entire ship has been sunk.
+
 Each shot fired by the human player is automatically followed by the computer's move, which is displayed on your own board using the same visual indicators.
 ### End of the Game
 The game continues until all ships belonging to one player have been sunk. The program then displays a message announcing the winner.
