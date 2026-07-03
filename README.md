@@ -11,6 +11,7 @@ The program enforces the standard Battleship placement rules:
 - Ships may be placed only horizontally or vertically. 
 -	A ship must occupy consecutive cells with no gaps. 
 -	Ships may not touch each other, not even at the corners. 
+
 When a ship has been completed, an audible notification is played and the program automatically prompts you to place the next ship.
 Once all ships have been placed, the game automatically enters the battle phase.
 ### Battle Phase
