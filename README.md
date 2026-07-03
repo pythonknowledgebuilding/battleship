@@ -38,3 +38,9 @@ The following screenshots illustrate several key stages of the game, including s
 
 
 <img src="screen_shots/battleship_screen_en_3.png" width="600" height="365" />
+
+
+<img src="screen_shots/battleship_screen_en_4.png" width="600" height="365" />
+
+
+<img src="screen_shots/battleship_screen_en_5.png" width="600" height="365" />
